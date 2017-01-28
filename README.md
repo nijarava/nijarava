@@ -1,11 +1,16 @@
 # Nijarava
 Central repository for all Nijarava planning
 
-# Resources
+# Bank Account
 
-* Facebook:   https://www.facebook.com/NijaRava/
-* Web:        http://nijarava.org/
-* Accounting: https://drive.google.com/open?id=0B5VzZ_empokQOHB5NDNYNjlENlE
+Donations can be made in ₹250, ₹500, and ₹1000+ amounts on a monthly basis, using Standing Instructions with an Indian bank.
+
+```
+Name:    Nijarava
+Account: 50200023110867
+Branch:  ITPL Whitefield
+IFSC:    HDFC0000077
+```
 
 # Network
 
@@ -46,3 +51,9 @@ Karnataka 560005
 ```
 
 [Google Maps Link](https://www.google.co.in/maps/place/Annasawmy+Mudaliar+General+Hospital/@12.9999604,77.6146521,15z/data=!4m5!3m4!1s0x0:0x19604cb9af4c1262!8m2!3d12.9999604!4d77.6146521)
+
+# Resources
+
+* Facebook:   https://www.facebook.com/NijaRava/
+* Web:        http://nijarava.org/
+* Accounting: https://drive.google.com/open?id=0B5VzZ_empokQOHB5NDNYNjlENlE
