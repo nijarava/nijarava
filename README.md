@@ -10,6 +10,7 @@ Name:    Nijarava
 Account: 50200023110867
 Branch:  ITPL Whitefield
 IFSC:    HDFC0000077
+Email:   nijarava@gmail.com
 ```
 
 # Network
